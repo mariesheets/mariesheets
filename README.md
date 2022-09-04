@@ -1,9 +1,14 @@
 ### Hi!
 My name is Marie, and this is my github profile! 
 
-Below is a picture of my dog. Her name is **Tacos**, and she is a *toy poodle* 
+below is a picture of my dog. Her name is **Tacos**, and she is a *toy poodle* ૮ ・ﻌ・ა [^2]
 
-![alt text](tacos.jpg)
+![alt text](tacos.JPG)
+
+to welcome you to my page, here is a super cool video for you to watch! 
+[super cool link](https://www.youtube.com/watch?v=XB3EQrj1maw)
+
+[^2]: ps sorry about the picture of my dog. she got this terrible haircut a few days before i took this picture. 
 
 <!--
 **mariesheets/mariesheets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
