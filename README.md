@@ -6,7 +6,11 @@ below is a picture of my dog. Her name is **Tacos**, and she is a *toy poodle* à
 
 ![alt text](tacos.JPG)
 
-to welcome you to my page, here is a super cool video for you to watch! 
+`that photo AND this website is kind of sick 0o0!!!` - tacos
+
+`i wonder why this text is so blocky...` - also tacos
+
+anyways, to welcome you to my page, here is a super cool video for you to watch! 
 [super cool link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
